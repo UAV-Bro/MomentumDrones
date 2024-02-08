@@ -1,5 +1,6 @@
-Welcome to the monster quad repo!
-Check out the Moster Quad.pdf for build instrucions and notes. 
+Welcome to the DEV-7 repo!
+Check out the DEV-7.pdf for build instructions and notes. 
 Please reach out for questions.
+Email info@momentumdrones.com 
 Cheers 
 Bill 
